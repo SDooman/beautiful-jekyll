@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Birthday Resolutions
-bigimg: /img/hello_world.jpeg
 subtitle: What I'd like to accomplish this year
 tags: [hey]
 ---
