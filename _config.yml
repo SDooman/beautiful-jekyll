@@ -46,6 +46,7 @@ navbar-col: "#333333" # Done
 navbar-text-col: "#a0d2e2" # Done
 navbar-children-col: "#333333" # Done
 page-col: "#141414" # Done
+text-col: "#bababa"
 link-col: "#008AFF" # Stay the Same
 hover-col: "#0085A1" # Stay the Same
 footer-col: "#333333" # Done
