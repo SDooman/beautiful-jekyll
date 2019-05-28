@@ -23,5 +23,5 @@ I studied Computer Science and Music at Brown.  I did my Masters under [Shriram 
 Learning Claire de Lune and reading [Designing Climate Solutions](https://www.energypolicy.solutions/guide/)
 
 ### Contact
-If you have questions/comments about any of the above, I'd love to hear from you at <samuel.dooman+contact@gmail.com>
+If you have questions/comments about any of the above, I'd love to hear from you at [samuel.dooman+contact@gmail.com](mailto:samuel.dooman+contact@gmail.com)
 
