@@ -1,16 +1,27 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hey, I'm Sam.  My current interests include, but aren't limited to:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+ - Math & Computer Science Education
+ - Playing Piano
+ - Health & Wellness
+ - Internet Startups
+ - Energy & Climate Change
 
-What else do you need?
+### Work & Education
 
-### my history
+I'm currently a software engineer at [Down Dog](https://www.downdogapp.com), 
+aiming to provide high quality fitness at home for everyone.  
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I studied Computer Science and Music at Brown.  I did my Masters under [Shriram Krishnamurthi](https://cs.brown.edu/~sk/) and [Kathi Fisler](https://cs.brown.edu/~kfisler/), working on the first iteration of [Bootstrap Data Science](https://www.bootstrapworld.org/materials/data-science/).  The curriculum is now used in K-12 classrooms across the US.
+
+### Right now
+Learning Claire de Lune and reading [Designing Climate Solutions](https://www.energypolicy.solutions/guide/)
+
+### Contact
+If you have questions/comments about any of the above, I'd love to hear from you at <samuel.dooman+contact@gmail.com>
+
