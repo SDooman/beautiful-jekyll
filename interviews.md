@@ -12,7 +12,7 @@ or just funny.
  - [Patrick Collison on EconTalk](http://www.econtalk.org/patrick-collison-on-innovation-and-scientific-progress/)
  - [Hal Harvey on The Interchange](https://art19.com/shows/the-interchange/episodes/5c5df779-58b3-40f7-b5a6-7360d106a1d3)
  - [Shriram Krishnamurthi: The Role of Computer Science in Computer Science Education](https://youtu.be/fAUl7w_2YYY)
- - [Stephen Wolfram:  A New Kind of Science](https://youtu.be/_eC14GonZnU)
+ - Stephen Wolfram:  A New Kind of Science [1](https://youtu.be/_eC14GonZnU) [2](https://youtu.be/P7kX7BuHSFI)
  - [Conrad Wolfram: Teaching Kids Real Math with Computers](https://www.ted.com/talks/conrad_wolfram_teaching_kids_real_math_with_computers?language=en)
  - [Charlie Munger:  The Psychology of Human Misjudgement](https://youtu.be/pqzcCfUglws)
  - [Emily Oster on EconTalk](http://www.econtalk.org/emily-oster-on-cribsheet/)
