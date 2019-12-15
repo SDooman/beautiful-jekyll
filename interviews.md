@@ -26,4 +26,5 @@ quote or kernel of an idea, I might add some notes later on the specifics.
  - [Charlie Munger:  The Psychology of Human Misjudgement](https://youtu.be/pqzcCfUglws)
  - [Paul Buchheit @ Y Combinator](https://youtu.be/Ir3hGtg0Wog)
  - [Paul Graham on EconTalk](https://www.econtalk.org/graham-on-start-ups-innovation-and-creativity/)
+ - [Jim Simons on Numberphile](https://www.youtube.com/watch?v=QNznD9hMEh0)
 
