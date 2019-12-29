@@ -27,4 +27,5 @@ quote or kernel of an idea, I might add some notes later on the specifics.
  - [Paul Buchheit @ Y Combinator](https://youtu.be/Ir3hGtg0Wog)
  - [Paul Graham on EconTalk](https://www.econtalk.org/graham-on-start-ups-innovation-and-creativity/)
  - [Jim Simons on Numberphile](https://www.youtube.com/watch?v=QNznD9hMEh0)
+ - [Saul Griffith on The Ezra Klein Show](https://megaphone.link/VMP4578391845)
 
