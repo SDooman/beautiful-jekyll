@@ -25,7 +25,6 @@ description: Hi, I'm Sam
 navbar-links:
   About Me: "aboutme"
   Lists:
-    - Books: "books"
     - Interviews:  "interviews"
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
