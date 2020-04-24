@@ -4,8 +4,8 @@ title: About me
 subtitle: 
 ---
 
-Hey, I'm Sam.  My current interests include, but aren't limited to:
-
+Hey, I'm Sam.
+  
 Things I'm proud of:
 
  - I'm currently a software engineer at [Down Dog](https://www.downdogapp.com), 
