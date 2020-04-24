@@ -20,8 +20,6 @@ quote or kernel of an idea, I might add some notes later on the specifics.
  - [Putting Startup Success in Perspective](https://youtu.be/9DUQ7_7Pj_c)
  - [Running Your Company](https://youtu.be/NprBQi0cSHU)
  - [Hiring at Stripe](https://youtu.be/qrDZhAxpKrQ)
-
-### Miscellaneous
  - [Charlie Munger:  The Psychology of Human Misjudgement](https://youtu.be/pqzcCfUglws)
  - [Paul Buchheit @ Y Combinator](https://youtu.be/Ir3hGtg0Wog)
  - [Paul Graham on EconTalk](https://www.econtalk.org/graham-on-start-ups-innovation-and-creativity/)
