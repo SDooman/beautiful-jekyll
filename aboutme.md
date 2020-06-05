@@ -4,6 +4,8 @@ title: About me
 subtitle: 
 ---
 
+**Things I'm proud of**
+
  - Currently a software engineer at [Down Dog](https://www.downdogapp.com), 
 aiming to provide affordable, high quality fitness at home.  
 
@@ -11,3 +13,7 @@ aiming to provide affordable, high quality fitness at home.
 
  - I can play Claire de Lune
 
+**Words to live by**
+ - "To be interesting, be interested" - Dale Carnegie
+ - "The best way to get what you want is to deserve what you want" - Charlie Munger
+ - "If we can't laugh at ourselves, we're doomed" - Down Dog Community group member
