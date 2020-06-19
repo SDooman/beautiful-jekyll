@@ -14,6 +14,7 @@ aiming to provide affordable, high quality fitness at home.
  - I can play Claire de Lune
 
 **Words to live by**
- - "To be interesting, be interested" - Dale Carnegie
- - "The best way to get what you want is to deserve what you want" - Charlie Munger
- - "If we can't laugh at ourselves, we're doomed" - Down Dog Community group member
+ - "To be interesting, be interested" 
+ - "If at first you don't succeed, try try again"
+ - "The best way to get what you want in life is to deserve it"
+ - "If we can't laugh at ourselves, we're doomed" 
